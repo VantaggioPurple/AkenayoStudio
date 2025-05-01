@@ -1,7 +1,7 @@
-# AkenayoStudio
+# AkenayōStudio
 
-**AkenayoStudio** is an independent development studio based in Italy.  
-This repository contains the official **usage license** for all projects, content, and services created or published by AkenayoStudio.
+**AkenayōStudio** is an independent development studio based in Italy.  
+This repository contains the official **usage license** for all projects, content, and services created or published by AkenayōStudio.
 
 ===
 
@@ -38,9 +38,10 @@ New clauses will be marked with an asterisk `(*)`.
 
 ## ⚖️ Disclaimer
 
-By using any AkenayoStudio content, you accept the terms of this license.  
+By using any AkenayōStudio content, you accept the terms of this license.  
 The Italian version is considered the official legal version. The English version is provided for informational purposes only.
 
 ===
 
-© 2025 AkenayoStudio – All rights reserved.
+Copyright © 2025 AkenayōStudio / 【アケナヨスタジオ】. All rights reserved.
+
