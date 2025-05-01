@@ -10,7 +10,7 @@ This repository contains the official **usage license** for all projects, conten
 The file `Licenza AkenayoStudio.pdf` includes the **official bilingual license** (Italian and English).  
 It outlines the conditions for using the studio's content, publishing rules for social media, personal data processing (in compliance with GDPR), and applicable legal clauses.
 
-📥 Download the license: [Licenza AkenayoStudio.pdf](Licenza%20AkenayoStudio.pdf)
+📥 Download the license: [License AkenayōStudio.pdf](License%20AkenayōStudio.pdf)
 
 ===
 
